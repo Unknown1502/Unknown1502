@@ -4,14 +4,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Unknown1502&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
-## 🚩 TryHackMe
+##  TryHackMe
 <p align="center">
   <a href="https://tryhackme.com/r/p/unknownroot">
     <img src="https://tryhackme-badges.s3.amazonaws.com/unknownroot.png" alt="TryHackMe Badge" width="220"/>
   </a>
 </p>
 
-## 📫 Connect with Me  
+##  Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/prajwalsutar116">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
