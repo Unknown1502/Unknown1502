@@ -7,7 +7,7 @@
 ##  TryHackMe
 <p align="center">
   <a href="https://tryhackme.com/r/p/unknownroot">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2580932" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/unknownroot.png" alt="TryHackMe Badge" width="220"/>
   </a>
 </p>
 
