@@ -51,13 +51,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-🔹 **Network Intrusion Detection System (NIDS)**  
-🔹 **Host Intrusion Detection System (HIDS)**  
-🔹 **Cloud Security Dashboard (React + TS)**  
-🔹 **Insider Threat Detection using LSTM**  
-🔹 **Multi-Modal Steganography Detection System**  
 
 ➡️ *Check repositories for detailed documentation & demos.*
 
